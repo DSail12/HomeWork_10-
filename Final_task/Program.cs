@@ -34,4 +34,3 @@ void printArray(string[] array)
 }
 Total(firstArray, secondArray);
 printArray(secondArray);
-
